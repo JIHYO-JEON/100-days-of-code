@@ -1,10 +1,11 @@
 # Rules of the 100 Days Of Code Challenge
+# [한국어 버전](ko/rules.md)
 
 ## Main Commitment
 ### *I will code for at least an hour every day for the next 100 days.*
 
 #### Start Date
-June 25th, 2016. [PUT YOUR DATE HERE]
+August 4th, 2021.
 
 ## Additional Rules
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode

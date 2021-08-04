@@ -1,30 +1,32 @@
 # 100 Days Of Code - Log
+#### [로 한국어 버전](ko/log.md)
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+[comment]: <> (### Day 0: February 30, 2016 &#40;Example 1&#41;)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+[comment]: <> (##### &#40;delete me or comment me out&#41;)
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+[comment]: <> (**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.)
 
-**Link to work:** [Calculator App](http://www.example.com)
+[comment]: <> (**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+[comment]: <> (**Link to work:** [Calculator App]&#40;http://www.example.com&#41;)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+[comment]: <> (### Day 0: February 30, 2016 &#40;Example 2&#41;)
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+[comment]: <> (##### &#40;delete me or comment me out&#41;)
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+[comment]: <> (**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.)
+
+[comment]: <> (**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.)
+
+[comment]: <> (**Link&#40;s&#41; to work**: [Calculator App]&#40;http://www.example.com&#41;)
 
 
-### Day 1: June 27, Monday
+### Day 1: August 4th, Wednesday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I've started to make the repo for studying JS by implementing Underscore library. I am also following the html course of freeCodeCamp to make this repo better.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I want to make it helpful like sources I studied so far.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Underbar](https://github.com/JIHYO-JEON/Underbar)
