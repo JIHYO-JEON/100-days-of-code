@@ -1,5 +1,5 @@
 # 100 Days Of Code - Log
-#### [로 한국어 버전](ko/log.md)
+#### [로그 한국어 버전](ko/log.md)
 
 [comment]: <> (### Day 0: February 30, 2016 &#40;Example 1&#41;)
 
@@ -27,6 +27,15 @@
 **Today's Progress**: I've started to make the repo for studying JS by implementing Underscore library. I am also following the html course of freeCodeCamp to make this repo better.
 
 **Thoughts** I want to make it helpful like sources I studied so far.
+
+**Link(s) to work**
+1. [Underbar](https://github.com/JIHYO-JEON/Underbar)
+
+### Day 2: August 5th, Wednesday
+
+**Today's Progress**: Keep working on the Underbar repository, finished basic HTML of freeCodeCamp, started basic css.
+
+**Thoughts** Underbar should be responsible... 
 
 **Link(s) to work**
 1. [Underbar](https://github.com/JIHYO-JEON/Underbar)
