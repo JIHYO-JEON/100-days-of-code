@@ -28,3 +28,12 @@
 
 **작업 내용 링크**
 1. [Underbar](https://github.com/JIHYO-JEON/Underbar)
+
+### 2일차: 8월 5일, 목요일
+
+**오늘 진행한 내용**: 언더바 레포 계속 하고 있고, freecodecamp의 html을 끝냈다. 이제 css 시작한다.
+
+**느낀 점**: 이 레포를 잘 가꿔서 공부하면서 도움받은수 많은 소스들처럼 좋은 예시로 만들어야겠다! 공부할 걸 트위터에 공유해야지.
+
+**작업 내용 링크**
+1. [Underbar](https://github.com/JIHYO-JEON/Underbar)
