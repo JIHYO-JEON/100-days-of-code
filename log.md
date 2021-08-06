@@ -1,5 +1,5 @@
 # 100 Days Of Code - Log
-#### [로 한국어 버전](ko/log.md)
+#### [로그 한국어 버전](ko/log.md)
 
 [comment]: <> (### Day 0: February 30, 2016 &#40;Example 1&#41;)
 
