@@ -30,3 +30,12 @@
 
 **Link(s) to work**
 1. [Underbar](https://github.com/JIHYO-JEON/Underbar)
+
+### Day 2: August 5th, Wednesday
+
+**Today's Progress**: Keep working on the Underbar repository, finished basic HTML of freeCodeCamp, started basic css.
+
+**Thoughts** Underbar should be responsible... 
+
+**Link(s) to work**
+1. [Underbar](https://github.com/JIHYO-JEON/Underbar)
